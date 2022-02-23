@@ -1,0 +1,15 @@
+Chapter 1 : Shebang
+
+The Shebang ( #! ) is used to tell the OS where the interpreter is.
+
+#!/bin/bash tells the computer where to  find the bash interpreter
+
+similarly,
+  #!/usr/bin/python3 tells the system where to find the pythion interpreter 
+  with which the system can execute the instructions in this File.
+
+  Refer to the Python_code file in this Folder.
+ 
+  After adding the [chmod +x] rights to the File,
+  It can be easily executed using ./Python_code  instead of the traditional python3 Python_code.py (also note you dont need to add extension .py to the file if you
+  mention the path using Shebank and execute as ./ )
