@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 
 print("\n This is a Python Code !!")
+print("\n The Python3 interpreter is present in the PATH : /usr/bin/python3
